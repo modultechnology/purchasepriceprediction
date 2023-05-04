@@ -1,4 +1,4 @@
-# purchase-price-prediction
+# purchasepriceprediction
 
 This repository contains code related to purchase price prediction experiments. 
 Some of these experiments were part of the EPOCH project.
